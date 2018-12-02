@@ -1,0 +1,20 @@
+\babel@toc {french}{}
+\contentsline {part}{I\hspace {1em}Construction d'un syst\IeC {\`e}me m\IeC {\'e}canique}{2}
+\contentsline {section}{\numberline {1}Cr\IeC {\'e}ation d'une pi\IeC {\`e}ce dans le monde de simulation}{2}
+\contentsline {section}{\numberline {2}Positionner une pi\IeC {\`e}ce par rapport \IeC {\`a} une autre}{3}
+\contentsline {section}{\numberline {3}Ajout d'un degr\IeC {\'e} de libert\IeC {\'e} pouvant \IeC {\^e}tre actionn\IeC {\'e}}{4}
+\contentsline {section}{\numberline {4}Conclusion}{5}
+\contentsline {part}{II\hspace {1em}Mod\IeC {\'e}lisation de syst\IeC {\`e}mes m\IeC {\'e}caniques simples}{5}
+\contentsline {section}{\numberline {1}Mod\IeC {\'e}lisation d'un syst\IeC {\`e}me masse-ressort}{5}
+\contentsline {section}{\numberline {2}Mod\IeC {\'e}lisation d'un pendule}{6}
+\contentsline {section}{\numberline {3}Conclusion:}{8}
+\contentsline {part}{III\hspace {1em}Mod\IeC {\'e}lisation du robot SCARA}{8}
+\contentsline {section}{\numberline {1}Choix de mod\IeC {\'e}lisation et hypoth\IeC {\`e}ses}{8}
+\contentsline {subsection}{\numberline {1.1}Mod\IeC {\'e}lisation simplifier}{8}
+\contentsline {subsection}{\numberline {1.2}Hypoth\IeC {\`e}ses}{8}
+\contentsline {section}{\numberline {2}Mod\IeC {\`e}le \textsc {Simulink}}{8}
+\contentsline {subsection}{\numberline {2.1}Commande en trap\IeC {\`e}ze de vitesse}{8}
+\contentsline {subsection}{\numberline {2.2}Choix des moteurs}{8}
+\contentsline {section}{\numberline {3}Evolution du syst\IeC {\`e}me}{8}
+\contentsline {subsection}{\numberline {3.1}Optimiation de l'inertie}{8}
+\contentsline {subsection}{\numberline {3.2}Monteur CC et aservissement}{8}
